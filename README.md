@@ -1,5 +1,5 @@
 
-# Resumos do Git e Github
+# DIO | Resumos do Git e Github
 
 Este repositório contém os resumos do curso sobre Git e Github do curso de Vercionamento de Código com o Git e Github.
 
